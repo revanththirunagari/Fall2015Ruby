@@ -5,6 +5,7 @@ def ancestors(obj1)
     ancestor += obj1.superclass.to_s
     
   end
+  2+2
 end
   
      
