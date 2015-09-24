@@ -1,0 +1,32 @@
+[{"name":"pasta",
+  "cuisine":"Italian",
+  "ingredients": [
+            {"spaghetti" :"Half lb"}, 
+            {"sauce" : "Half pint"}, 
+            {"Olive oil" : "1 Tbsp"}, 
+            {"spices" : "1 tsp"} 
+           ],
+  "steps" : [
+   "Boil water",
+   "Add pasta and olive oil",
+   "Cook for 15 minutes",
+   "Add sauce",
+   "Add spices",
+   "Bring to simmer",
+   "Serve"
+          ]   
+          },
+ {"name":"Burger", "cuisine":"American",
+  "ingredients": [
+            {"buns" :"One dozen"}, 
+            {"patty" : "Six"}, 
+            {"Tomato" : "6 slices"}, 
+            {"Lettuce" : "6 pieces"},
+            {"Onion" : "6 slices"}  
+           ],
+  "steps" : [
+   "Grill patties for 5 minutes on each side",
+   "make the sandwich"
+          ]
+ }]
+ 
